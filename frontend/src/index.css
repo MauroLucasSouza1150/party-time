@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+
+body {
+    background: linear-gradient(90deg, #7703fc 50%, #ffffff 90%)
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+a {
+    color: rgb(0, 0, 153);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+    color: #ffde20;
+}
